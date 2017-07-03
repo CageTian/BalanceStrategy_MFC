@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="源文件\资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+    <Text Include="WX_ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BalanceStrategy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BalanceStrategyDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="actionAnimation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AnkleStrategy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="basicterrain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bonecluster.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fkframer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HipStrategy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HumanSimulation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="humanskeleton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="humanskin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="humanwalkanimation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="humanwalkframer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ikframer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix44.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="names.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shape.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shapebone.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shapeCircle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shapecube.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shaperhomboid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="skeleton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="skin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StepStrategy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="terrain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vector3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BalanceControl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTChart.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CSeries.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tchart1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MultStepStrategy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BalanceStrategy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BalanceStrategyDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="actionAnimation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="actionFramer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="animation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AnkleStrategy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="basicterrain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bonecluster.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fkframer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HipStrategy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="humanskeleton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="humanskin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="humanwalkanimation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="humanwalkframer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ikframer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix44.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shapebone.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shapeCircle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shapecube.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shaperhomboid.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="skeleton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="skin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StepStrategy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BalanceControl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tchart1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MultStepStrategy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BalanceStrategy.rc">
+      <Filter>源文件\资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\BalanceStrategy.rc2">
+      <Filter>源文件\资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\BalanceStrategy.ico">
+      <Filter>源文件\资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
